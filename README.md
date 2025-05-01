@@ -450,6 +450,9 @@ export default Navbar;
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/d57f8e81-420e-4ef8-a55d-6d7895dae728)
+
+![image](https://github.com/user-attachments/assets/4f0ae4b2-fc8f-406a-8512-35bd2295c2a5)
 
 
 ## RESULT
